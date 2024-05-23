@@ -1,4 +1,5 @@
 import React from "react";
+import TextField from "../fields/TextField";
 
 const FrameASection = () => {
 	return (
@@ -12,13 +13,13 @@ const FrameASection = () => {
 					<label>a</label>
 				</div>
 				<div className="grid-item">
-					<input type="text" value="coughing up blood" />
+					<TextField value="coughing up blood" />
 				</div>
 				<div className="grid-item">
-					<input type="text" value="MD22" />
+					<TextField value="MD22" />
 				</div>
 				<div className="grid-item">
-					<input type="text" value="Ducimus excepturi n" />
+					<TextField value="Ducimus excepturi n" />
 				</div>
 				<div className="grid-item">
 					<select>
@@ -29,7 +30,7 @@ const FrameASection = () => {
 					</select>
 				</div>
 				<div className="grid-item">
-					<input type="text" value="Praesentium aut alia" />
+					<TextField value="Praesentium aut alia" />
 				</div>
 
 				<div className="grid-item section-subtitle">
@@ -39,10 +40,10 @@ const FrameASection = () => {
 					<label>b</label>
 				</div>
 				<div className="grid-item">
-					<input type="text" value="Voluptate autem dele" />
+					<TextField value="Voluptate autem dele" />
 				</div>
 				<div className="grid-item">
-					<input type="text" value="Eiusmod sint et com" />
+					<TextField value="Eiusmod sint et com" />
 				</div>
 				<div className="grid-item">
 					<select>
@@ -53,7 +54,7 @@ const FrameASection = () => {
 					</select>
 				</div>
 				<div className="grid-item">
-					<input type="text" value="Dicta irure duis vol" />
+					<TextField value="Dicta irure duis vol" />
 				</div>
 
 				<div className="grid-item"></div>
@@ -61,10 +62,10 @@ const FrameASection = () => {
 					<label>c</label>
 				</div>
 				<div className="grid-item">
-					<input type="text" value="Id soluta nobis id v" />
+					<TextField value="Id soluta nobis id v" />
 				</div>
 				<div className="grid-item">
-					<input type="text" value="Aut excepteur fugit" />
+					<TextField value="Aut excepteur fugit" />
 				</div>
 				<div className="grid-item">
 					<select>
@@ -75,7 +76,7 @@ const FrameASection = () => {
 					</select>
 				</div>
 				<div className="grid-item">
-					<input type="text" value="Excepteur et consect" />
+					<TextField value="Excepteur et consect" />
 				</div>
 
 				<div className="grid-item"></div>
@@ -83,10 +84,10 @@ const FrameASection = () => {
 					<label>d</label>
 				</div>
 				<div className="grid-item">
-					<input type="text" value="Nobis dolor occaecat" />
+					<TextField value="Nobis dolor occaecat" />
 				</div>
 				<div className="grid-item">
-					<input type="text" value="Eum culpa error quid" />
+					<TextField value="Eum culpa error quid" />
 				</div>
 				<div className="grid-item">
 					<select>
@@ -97,7 +98,7 @@ const FrameASection = () => {
 					</select>
 				</div>
 				<div className="grid-item">
-					<input type="text" value="Aspernatur eos nisi" />
+					<TextField value="Aspernatur eos nisi" />
 				</div>
 
 				<div className="grid-item section-subtitle">
