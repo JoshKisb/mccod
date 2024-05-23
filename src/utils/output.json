@@ -5,10 +5,7 @@
     "displayName": "100 020-100-MD01ba. Type_of_interval_for_a",
     "valueType": "TEXT",
     "name": "100 020-100-MD01ba. Type_of_interval_for_a",
-    "shortName": "nil 020-100-MD01ba. Type_of_interval_for_a",
-    "dataElement": {
-      "id": "Ylht9kCLSRW"
-    }
+    "shortName": "nil 020-100-MD01ba. Type_of_interval_for_a"
   },
   {
     "id": "CnPGhOcERFF",
@@ -16,10 +13,7 @@
     "displayName": "100 020-100-MD02a3. Report chain of events due to in order-Cause of death_d",
     "valueType": "TEXT",
     "name": "100 020-100-MD02a3. Report chain of events due to in order-Cause of death_d",
-    "shortName": "nil 020-100-MD02a3. Report chain of events due to_d",
-    "dataElement": {
-      "id": "CnPGhOcERFF"
-    }
+    "shortName": "nil 020-100-MD02a3. Report chain of events due to_d"
   },
   {
     "id": "myydnkmLfhp",
@@ -27,10 +21,7 @@
     "displayName": "100 020-100-MD02b1a. Type_of_interval_for_b",
     "valueType": "TEXT",
     "name": "100 020-100-MD02b1a. Type_of_interval_for_b",
-    "shortName": "nil 020-100-MD02b1a. Type_of_interval_for_b",
-    "dataElement": {
-      "id": "myydnkmLfhp"
-    }
+    "shortName": "nil 020-100-MD02b1a. Type_of_interval_for_b"
   },
   {
     "id": "hO8No9fHVd2",
@@ -38,10 +29,7 @@
     "displayName": "100 020-100-MD02b2b. HMIS_100_Time interval_c",
     "valueType": "TEXT",
     "name": "100 020-100-MD02b2b. HMIS_100_Time interval_c",
-    "shortName": "nil 020-100-MD02b2b. HMIS_100_Time interval_c",
-    "dataElement": {
-      "id": "hO8No9fHVd2"
-    }
+    "shortName": "nil 020-100-MD02b2b. HMIS_100_Time interval_c"
   },
   {
     "id": "cmZrrHfTxW3",
@@ -49,10 +37,7 @@
     "displayName": "100 020-100-MD02b3a. Type_of_interval_for_d",
     "valueType": "TEXT",
     "name": "100 020-100-MD02b3a. Type_of_interval_for_d",
-    "shortName": "nil 020-100-MD02b3a. Type_of_interval_for_d",
-    "dataElement": {
-      "id": "cmZrrHfTxW3"
-    }
+    "shortName": "nil 020-100-MD02b3a. Type_of_interval_for_d"
   },
   {
     "id": "BRtcz4HV7Ak",
@@ -60,10 +45,7 @@
     "displayName": "100 020-DD03.Inpatient number",
     "valueType": "TEXT",
     "name": "100 020-DD03.Inpatient number",
-    "shortName": "nil 020-DD03.Inpatient number",
-    "dataElement": {
-      "id": "BRtcz4HV7Ak"
-    }
+    "shortName": "nil 020-DD03.Inpatient number"
   },
   {
     "id": "itNUbtIXfCT",
@@ -71,10 +53,7 @@
     "displayName": "100 100-020. Ministry of Health National Case Number",
     "valueType": "TEXT",
     "name": "100 100-020. Ministry of Health National Case Number",
-    "shortName": "nil 100-020. Ministry of Health National Case Number",
-    "dataElement": {
-      "id": "itNUbtIXfCT"
-    }
+    "shortName": "nil 100-020. Ministry of Health National Case Number"
   },
   {
     "id": "yQIItb7CwT8",
@@ -82,10 +61,7 @@
     "displayName": "100 100-DD03. Nationality",
     "valueType": "TEXT",
     "name": "100 100-DD03. Nationality",
-    "shortName": "nil 100-DD03. Nationality",
-    "dataElement": {
-      "id": "yQIItb7CwT8"
-    }
+    "shortName": "nil 100-DD03. Nationality"
   },
   {
     "id": "b6Mur4uir2M",
@@ -93,10 +69,7 @@
     "displayName": "100 100-DDO11. Time of Death",
     "valueType": "TIME",
     "name": "100 100-DDO11. Time of Death",
-    "shortName": "nil 100-DDO11. Time of Death",
-    "dataElement": {
-      "id": "b6Mur4uir2M"
-    }
+    "shortName": "nil 100-DDO11. Time of Death"
   },
   {
     "id": "LAvyxs29laJ",
@@ -104,10 +77,7 @@
     "displayName": "100 doris_underlying_cause_of_death_code",
     "valueType": "TEXT",
     "name": "100 doris_underlying_cause_of_death_code",
-    "shortName": "nil doris_underlying_cause_of_death_code",
-    "dataElement": {
-      "id": "LAvyxs29laJ"
-    }
+    "shortName": "nil doris_underlying_cause_of_death_code"
   },
   {
     "id": "tKezaEs8Ez5",
@@ -115,10 +85,7 @@
     "displayName": "100 doris_underlying_cause_of_death_text",
     "valueType": "TEXT",
     "name": "100 doris_underlying_cause_of_death_text",
-    "shortName": "nil doris_underlying_cause_of_death_text",
-    "dataElement": {
-      "id": "tKezaEs8Ez5"
-    }
+    "shortName": "nil doris_underlying_cause_of_death_text"
   },
   {
     "id": "n2mScmFMovq",
@@ -126,10 +93,7 @@
     "displayName": "100 final_underlying_cause_of_death_code",
     "valueType": "TEXT",
     "name": "100 final_underlying_cause_of_death_code",
-    "shortName": "nil final_underlying_cause_of_death_code",
-    "dataElement": {
-      "id": "n2mScmFMovq"
-    }
+    "shortName": "nil final_underlying_cause_of_death_code"
   },
   {
     "id": "mQVAyOLbga1",
@@ -137,10 +101,7 @@
     "displayName": "100 final_underlying_cause_of_death_text",
     "valueType": "TEXT",
     "name": "100 final_underlying_cause_of_death_text",
-    "shortName": "nil final_underlying_cause_of_death_text",
-    "dataElement": {
-      "id": "mQVAyOLbga1"
-    }
+    "shortName": "nil final_underlying_cause_of_death_text"
   },
   {
     "id": "FGagV1Utrdh",
@@ -148,10 +109,7 @@
     "displayName": "100 HMIS_100 Inpatient Number",
     "valueType": "TEXT",
     "name": "100 HMIS_100 Inpatient Number",
-    "shortName": "nil HMIS_100 Inpatient Number",
-    "dataElement": {
-      "id": "FGagV1Utrdh"
-    }
+    "shortName": "nil HMIS_100 Inpatient Number"
   },
   {
     "id": "ZYKmQ9GPOaF",
@@ -159,10 +117,7 @@
     "displayName": "100 HMIS_100_   Full Name",
     "valueType": "TEXT",
     "name": "100 HMIS_100_   Full Name",
-    "shortName": "nil HMIS_100_   Full Name",
-    "dataElement": {
-      "id": "ZYKmQ9GPOaF"
-    }
+    "shortName": "nil HMIS_100_   Full Name"
   },
   {
     "id": "q7e7FOXKnOf",
@@ -170,10 +125,7 @@
     "displayName": "100 HMIS_100_  Age",
     "valueType": "TEXT",
     "name": "100 HMIS_100_  Age",
-    "shortName": "nil HMIS_100_  Age",
-    "dataElement": {
-      "id": "q7e7FOXKnOf"
-    }
+    "shortName": "nil HMIS_100_  Age"
   },
   {
     "id": "v8mvHHXo06E",
@@ -181,10 +133,7 @@
     "displayName": "100 HMIS_100_  Age Days",
     "valueType": "NUMBER",
     "name": "100 HMIS_100_  Age Days",
-    "shortName": "nil HMIS_100_  Age Days",
-    "dataElement": {
-      "id": "v8mvHHXo06E"
-    }
+    "shortName": "nil HMIS_100_  Age Days"
   },
   {
     "id": "VJXpmHCaAFG",
@@ -192,10 +141,7 @@
     "displayName": "100 HMIS_100_  Age Hours",
     "valueType": "NUMBER",
     "name": "100 HMIS_100_  Age Hours",
-    "shortName": "nil HMIS_100_  Age Hours",
-    "dataElement": {
-      "id": "VJXpmHCaAFG"
-    }
+    "shortName": "nil HMIS_100_  Age Hours"
   },
   {
     "id": "TgFI46omIEg",
@@ -203,10 +149,7 @@
     "displayName": "100 HMIS_100_  Age Minutes",
     "valueType": "NUMBER",
     "name": "100 HMIS_100_  Age Minutes",
-    "shortName": "nil HMIS_100_  Age Minutes",
-    "dataElement": {
-      "id": "TgFI46omIEg"
-    }
+    "shortName": "nil HMIS_100_  Age Minutes"
   },
   {
     "id": "WYykJO0Vh3s",
@@ -214,10 +157,7 @@
     "displayName": "100 HMIS_100_  Age Months",
     "valueType": "NUMBER",
     "name": "100 HMIS_100_  Age Months",
-    "shortName": "nil HMIS_100_  Age Months",
-    "dataElement": {
-      "id": "WYykJO0Vh3s"
-    }
+    "shortName": "nil HMIS_100_  Age Months"
   },
   {
     "id": "DdfDMFW4EJ9",
@@ -225,10 +165,7 @@
     "displayName": "100 HMIS_100_  Age of mother (years)",
     "valueType": "TEXT",
     "name": "100 HMIS_100_  Age of mother (years)",
-    "shortName": "nil HMIS_100_  Age of mother (years)",
-    "dataElement": {
-      "id": "DdfDMFW4EJ9"
-    }
+    "shortName": "nil HMIS_100_  Age of mother (years)"
   },
   {
     "id": "twVlVWM3ffz",
@@ -236,10 +173,7 @@
     "displayName": "100 HMIS_100_  Approval",
     "valueType": "TEXT",
     "name": "100 HMIS_100_  Approval",
-    "shortName": "nil HMIS_100_  Approval",
-    "dataElement": {
-      "id": "twVlVWM3ffz"
-    }
+    "shortName": "nil HMIS_100_  Approval"
   },
   {
     "id": "xAWYJtQsg8M",
@@ -247,10 +181,7 @@
     "displayName": "100 HMIS_100_  Birth weight (in grams)",
     "valueType": "TEXT",
     "name": "100 HMIS_100_  Birth weight (in grams)",
-    "shortName": "nil HMIS_100_  Birth weight (in grams)",
-    "dataElement": {
-      "id": "xAWYJtQsg8M"
-    }
+    "shortName": "nil HMIS_100_  Birth weight (in grams)"
   },
   {
     "id": "k9xdBQzYMXo",
@@ -258,10 +189,7 @@
     "displayName": "100 HMIS_100_  cause_of_death_a_uri",
     "valueType": "TEXT",
     "name": "100 HMIS_100_  cause_of_death_a_uri",
-    "shortName": "nil HMIS_100_  cause_of_death_a_uri",
-    "dataElement": {
-      "id": "k9xdBQzYMXo"
-    }
+    "shortName": "nil HMIS_100_  cause_of_death_a_uri"
   },
   {
     "id": "fJUy96o8akn",
@@ -269,10 +197,7 @@
     "displayName": "100 HMIS_100_  cause_of_death_c_uri",
     "valueType": "TEXT",
     "name": "100 HMIS_100_  cause_of_death_c_uri",
-    "shortName": "nil HMIS_100_  cause_of_death_c_uri",
-    "dataElement": {
-      "id": "fJUy96o8akn"
-    }
+    "shortName": "nil HMIS_100_  cause_of_death_c_uri"
   },
   {
     "id": "S53kx50gjQn",
@@ -280,10 +205,7 @@
     "displayName": "100 HMIS_100_  cause_of_death_d_uri",
     "valueType": "TEXT",
     "name": "100 HMIS_100_  cause_of_death_d_uri",
-    "shortName": "nil HMIS_100_  cause_of_death_d_uri",
-    "dataElement": {
-      "id": "S53kx50gjQn"
-    }
+    "shortName": "nil HMIS_100_  cause_of_death_d_uri"
   },
   {
     "id": "yftBZ5bSEOb",
@@ -291,10 +213,7 @@
     "displayName": "100 HMIS_100_  cause_of_death_uri_b",
     "valueType": "TEXT",
     "name": "100 HMIS_100_  cause_of_death_uri_b",
-    "shortName": "nil HMIS_100_  cause_of_death_uri_b",
-    "dataElement": {
-      "id": "yftBZ5bSEOb"
-    }
+    "shortName": "nil HMIS_100_  cause_of_death_uri_b"
   },
   {
     "id": "zD0E77W4rFs",
@@ -302,10 +221,7 @@
     "displayName": "100 HMIS_100_  code_cause_of_death_a",
     "valueType": "TEXT",
     "name": "100 HMIS_100_  code_cause_of_death_a",
-    "shortName": "nil HMIS_100_  code_cause_of_death_a",
-    "dataElement": {
-      "id": "zD0E77W4rFs"
-    }
+    "shortName": "nil HMIS_100_  code_cause_of_death_a"
   },
   {
     "id": "tuMMQsGtE69",
@@ -313,10 +229,7 @@
     "displayName": "100 HMIS_100_  code_cause_of_death_b",
     "valueType": "TEXT",
     "name": "100 HMIS_100_  code_cause_of_death_b",
-    "shortName": "nil HMIS_100_  code_cause_of_death_b",
-    "dataElement": {
-      "id": "tuMMQsGtE69"
-    }
+    "shortName": "nil HMIS_100_  code_cause_of_death_b"
   },
   {
     "id": "C8n6hBilwsX",
@@ -324,10 +237,7 @@
     "displayName": "100 HMIS_100_  code_cause_of_death_c",
     "valueType": "TEXT",
     "name": "100 HMIS_100_  code_cause_of_death_c",
-    "shortName": "nil HMIS_100_  code_cause_of_death_c",
-    "dataElement": {
-      "id": "C8n6hBilwsX"
-    }
+    "shortName": "nil HMIS_100_  code_cause_of_death_c"
   },
   {
     "id": "IeS8V8Yf40N",
@@ -335,10 +245,7 @@
     "displayName": "100 HMIS_100_  code_cause_of_death_d",
     "valueType": "TEXT",
     "name": "100 HMIS_100_  code_cause_of_death_d",
-    "shortName": "nil HMIS_100_  code_cause_of_death_d",
-    "dataElement": {
-      "id": "IeS8V8Yf40N"
-    }
+    "shortName": "nil HMIS_100_  code_cause_of_death_d"
   },
   {
     "id": "dTd7txVzhgY",
@@ -346,10 +253,7 @@
     "displayName": "100 HMIS_100_  code_FINAL_underlying_cause",
     "valueType": "TEXT",
     "name": "100 HMIS_100_  code_FINAL_underlying_cause",
-    "shortName": "nil HMIS_100_  code_FINAL_underlying_cause",
-    "dataElement": {
-      "id": "dTd7txVzhgY"
-    }
+    "shortName": "nil HMIS_100_  code_FINAL_underlying_cause"
   },
   {
     "id": "se3wRj1bYPo",
@@ -357,10 +261,7 @@
     "displayName": "100 HMIS_100_  county",
     "valueType": "TEXT",
     "name": "100 HMIS_100_  county",
-    "shortName": "nil HMIS_100_  county",
-    "dataElement": {
-      "id": "se3wRj1bYPo"
-    }
+    "shortName": "nil HMIS_100_  county"
   },
   {
     "id": "i8rrl8YWxLF",
@@ -368,10 +269,7 @@
     "displayName": "100 HMIS_100_  Date and time of Death",
     "valueType": "TEXT",
     "name": "100 HMIS_100_  Date and time of Death",
-    "shortName": "nil HMIS_100_  Date and time of Death",
-    "dataElement": {
-      "id": "i8rrl8YWxLF"
-    }
+    "shortName": "nil HMIS_100_  Date and time of Death"
   },
   {
     "id": "RbrUuKFSqkZ",
@@ -379,10 +277,7 @@
     "displayName": "100 HMIS_100_  Date of Birth",
     "valueType": "TEXT",
     "name": "100 HMIS_100_  Date of Birth",
-    "shortName": "nil HMIS_100_  Date of Birth",
-    "dataElement": {
-      "id": "RbrUuKFSqkZ"
-    }
+    "shortName": "nil HMIS_100_  Date of Birth"
   },
   {
     "id": "U18Tnfz9EKd",
@@ -390,10 +285,7 @@
     "displayName": "100 HMIS_100_  Date of Injury If external cause or poisoning",
     "valueType": "TEXT",
     "name": "100 HMIS_100_  Date of Injury If external cause or poisoning",
-    "shortName": "nil HMIS_100_  Date of Injury If external cause or poi",
-    "dataElement": {
-      "id": "U18Tnfz9EKd"
-    }
+    "shortName": "nil HMIS_100_  Date of Injury If external cause or poi"
   },
   {
     "id": "u9tYUv6AM51",
@@ -401,10 +293,7 @@
     "displayName": "100 HMIS_100_  declaration(yes)",
     "valueType": "TEXT",
     "name": "100 HMIS_100_  declaration(yes)",
-    "shortName": "nil HMIS_100_  declaration(yes)",
-    "dataElement": {
-      "id": "u9tYUv6AM51"
-    }
+    "shortName": "nil HMIS_100_  declaration(yes)"
   },
   {
     "id": "uaxjt0inPNF",
@@ -412,10 +301,7 @@
     "displayName": "100 HMIS_100_  Delivered by skilled attendant",
     "valueType": "TEXT",
     "name": "100 HMIS_100_  Delivered by skilled attendant",
-    "shortName": "nil HMIS_100_  Delivered by skilled attendant",
-    "dataElement": {
-      "id": "uaxjt0inPNF"
-    }
+    "shortName": "nil HMIS_100_  Delivered by skilled attendant"
   },
   {
     "id": "AJAraEcfH63",
@@ -423,10 +309,7 @@
     "displayName": "100 HMIS_100_  Did the pregnancy contribute to the death?",
     "valueType": "TEXT",
     "name": "100 HMIS_100_  Did the pregnancy contribute to the death?",
-    "shortName": "nil HMIS_100_  Did the pregnancy contribute to the dea",
-    "dataElement": {
-      "id": "AJAraEcfH63"
-    }
+    "shortName": "nil HMIS_100_  Did the pregnancy contribute to the dea"
   },
   {
     "id": "t5nTEmlScSt",
@@ -434,10 +317,7 @@
     "displayName": "100 HMIS_100_  District",
     "valueType": "TEXT",
     "name": "100 HMIS_100_  District",
-    "shortName": "nil HMIS_100_  District",
-    "dataElement": {
-      "id": "t5nTEmlScSt"
-    }
+    "shortName": "nil HMIS_100_  District"
   },
   {
     "id": "PaoRZbokFWJ",
@@ -445,10 +325,7 @@
     "displayName": "100 HMIS_100_  Examined_by",
     "valueType": "TEXT",
     "name": "100 HMIS_100_  Examined_by",
-    "shortName": "nil HMIS_100_  Examined_by",
-    "dataElement": {
-      "id": "PaoRZbokFWJ"
-    }
+    "shortName": "nil HMIS_100_  Examined_by"
   },
   {
     "id": "zcn7acUB6x1",
@@ -456,10 +333,7 @@
     "displayName": "100 HMIS_100_  For women, was the deceased pregnant?",
     "valueType": "TEXT",
     "name": "100 HMIS_100_  For women, was the deceased pregnant?",
-    "shortName": "nil HMIS_100_  For women, was the deceased pregnant?",
-    "dataElement": {
-      "id": "zcn7acUB6x1"
-    }
+    "shortName": "nil HMIS_100_  For women, was the deceased pregnant?"
   },
   {
     "id": "cSDJ9kSJkFP",
@@ -467,10 +341,7 @@
     "displayName": "100 HMIS_100_  freetext_cause_of_death_a",
     "valueType": "TEXT",
     "name": "100 HMIS_100_  freetext_cause_of_death_a",
-    "shortName": "nil HMIS_100_  freetext_cause_of_death_a",
-    "dataElement": {
-      "id": "cSDJ9kSJkFP"
-    }
+    "shortName": "nil HMIS_100_  freetext_cause_of_death_a"
   },
   {
     "id": "QHY3iYRLvMp",
@@ -478,10 +349,7 @@
     "displayName": "100 HMIS_100_  freetext_cause_of_death_a_",
     "valueType": "TEXT",
     "name": "100 HMIS_100_  freetext_cause_of_death_a_",
-    "shortName": "nil HMIS_100_  freetext_cause_of_death_a_",
-    "dataElement": {
-      "id": "QHY3iYRLvMp"
-    }
+    "shortName": "nil HMIS_100_  freetext_cause_of_death_a_"
   },
   {
     "id": "uckvenVFnwf",
@@ -489,10 +357,7 @@
     "displayName": "100 HMIS_100_  freetext_cause_of_death_b",
     "valueType": "TEXT",
     "name": "100 HMIS_100_  freetext_cause_of_death_b",
-    "shortName": "nil HMIS_100_  freetext_cause_of_death_b",
-    "dataElement": {
-      "id": "uckvenVFnwf"
-    }
+    "shortName": "nil HMIS_100_  freetext_cause_of_death_b"
   },
   {
     "id": "ZFdJRT3PaUd",
@@ -500,10 +365,7 @@
     "displayName": "100 HMIS_100_  freetext_cause_of_death_c",
     "valueType": "TEXT",
     "name": "100 HMIS_100_  freetext_cause_of_death_c",
-    "shortName": "nil HMIS_100_  freetext_cause_of_death_c",
-    "dataElement": {
-      "id": "ZFdJRT3PaUd"
-    }
+    "shortName": "nil HMIS_100_  freetext_cause_of_death_c"
   },
   {
     "id": "Op5pSvgHo1M",
@@ -511,10 +373,7 @@
     "displayName": "100 HMIS_100_  freetext_cause_of_death_d",
     "valueType": "TEXT",
     "name": "100 HMIS_100_  freetext_cause_of_death_d",
-    "shortName": "nil HMIS_100_  freetext_cause_of_death_d",
-    "dataElement": {
-      "id": "Op5pSvgHo1M"
-    }
+    "shortName": "nil HMIS_100_  freetext_cause_of_death_d"
   },
   {
     "id": "Kz29xNOBjsJ",
@@ -522,10 +381,7 @@
     "displayName": "100 HMIS_100_  I attended the deceased before death",
     "valueType": "TEXT",
     "name": "100 HMIS_100_  I attended the deceased before death",
-    "shortName": "nil HMIS_100_  I attended the deceased before death",
-    "dataElement": {
-      "id": "Kz29xNOBjsJ"
-    }
+    "shortName": "nil HMIS_100_  I attended the deceased before death"
   },
   {
     "id": "cp5xzqVU2Vw",
@@ -533,10 +389,7 @@
     "displayName": "100 HMIS_100_  I conducted the post mortem of the body",
     "valueType": "TEXT",
     "name": "100 HMIS_100_  I conducted the post mortem of the body",
-    "shortName": "nil HMIS_100_  I conducted the post mortem of the body",
-    "dataElement": {
-      "id": "cp5xzqVU2Vw"
-    }
+    "shortName": "nil HMIS_100_  I conducted the post mortem of the body"
   },
   {
     "id": "ZXZZfzBpu8a",
@@ -544,10 +397,7 @@
     "displayName": "100 HMIS_100_  I examined the body after death",
     "valueType": "TEXT",
     "name": "100 HMIS_100_  I examined the body after death",
-    "shortName": "nil HMIS_100_  I examined the body after death",
-    "dataElement": {
-      "id": "ZXZZfzBpu8a"
-    }
+    "shortName": "nil HMIS_100_  I examined the body after death"
   },
   {
     "id": "GFVhltTCG8b",
@@ -555,10 +405,7 @@
     "displayName": "100 HMIS_100_  If death was perinatal, please state conditions of mother that affected the fetus and newborn",
     "valueType": "TEXT",
     "name": "100 HMIS_100_  If death was perinatal, please state conditions of mother that affected the fetus and newborn",
-    "shortName": "nil HMIS_100_  If death was perinatal, please state co",
-    "dataElement": {
-      "id": "GFVhltTCG8b"
-    }
+    "shortName": "nil HMIS_100_  If death was perinatal, please state co"
   },
   {
     "id": "jf9TogeSZpk",
@@ -566,10 +413,7 @@
     "displayName": "100 HMIS_100_  If death within 24h specify number of hours survived",
     "valueType": "TEXT",
     "name": "100 HMIS_100_  If death within 24h specify number of hours survived",
-    "shortName": "nil HMIS_100_  If death within 24h specify number of h",
-    "dataElement": {
-      "id": "jf9TogeSZpk"
-    }
+    "shortName": "nil HMIS_100_  If death within 24h specify number of h"
   },
   {
     "id": "mDez8j7furx",
@@ -577,10 +421,7 @@
     "displayName": "100 HMIS_100_  If Other place (please specify):",
     "valueType": "TEXT",
     "name": "100 HMIS_100_  If Other place (please specify):",
-    "shortName": "nil HMIS_100_  If Other place (please specify):",
-    "dataElement": {
-      "id": "mDez8j7furx"
-    }
+    "shortName": "nil HMIS_100_  If Other place (please specify):"
   },
   {
     "id": "j5TIQx3gHyF",
@@ -588,10 +429,7 @@
     "displayName": "100 HMIS_100_  If yes please specify date of surgery",
     "valueType": "TEXT",
     "name": "100 HMIS_100_  If yes please specify date of surgery",
-    "shortName": "nil HMIS_100_  If yes please specify date of surgery",
-    "dataElement": {
-      "id": "j5TIQx3gHyF"
-    }
+    "shortName": "nil HMIS_100_  If yes please specify date of surgery"
   },
   {
     "id": "JhHwdQ337nn",
@@ -599,10 +437,7 @@
     "displayName": "100 HMIS_100_  If yes please specify reason for surgery (disease or condition)",
     "valueType": "TEXT",
     "name": "100 HMIS_100_  If yes please specify reason for surgery (disease or condition)",
-    "shortName": "nil HMIS_100_  If yes please specify reason for surger",
-    "dataElement": {
-      "id": "JhHwdQ337nn"
-    }
+    "shortName": "nil HMIS_100_  If yes please specify reason for surger"
   },
   {
     "id": "UfG52s4YcUt",
@@ -610,10 +445,7 @@
     "displayName": "100 HMIS_100_  If yes were the findings used in the certification?",
     "valueType": "TEXT",
     "name": "100 HMIS_100_  If yes were the findings used in the certification?",
-    "shortName": "nil HMIS_100_  If yes were the findings used in the ce",
-    "dataElement": {
-      "id": "UfG52s4YcUt"
-    }
+    "shortName": "nil HMIS_100_  If yes were the findings used in the ce"
   },
   {
     "id": "KpfvNQSsWIw",
@@ -621,10 +453,7 @@
     "displayName": "100 HMIS_100_  If yes, at what point in time was deceased pregnant?",
     "valueType": "TEXT",
     "name": "100 HMIS_100_  If yes, at what point in time was deceased pregnant?",
-    "shortName": "nil HMIS_100_  If yes, at what point in time was decea",
-    "dataElement": {
-      "id": "KpfvNQSsWIw"
-    }
+    "shortName": "nil HMIS_100_  If yes, at what point in time was decea"
   },
   {
     "id": "FhHPxY16vet",
@@ -632,10 +461,7 @@
     "displayName": "100 HMIS_100_  Manner of death (disease)",
     "valueType": "TEXT",
     "name": "100 HMIS_100_  Manner of death (disease)",
-    "shortName": "nil HMIS_100_  Manner of death (disease)",
-    "dataElement": {
-      "id": "FhHPxY16vet"
-    }
+    "shortName": "nil HMIS_100_  Manner of death (disease)"
   },
   {
     "id": "gNM2Yhypydx",
@@ -643,10 +469,7 @@
     "displayName": "100 HMIS_100_  Manner of death - Accident",
     "valueType": "TEXT",
     "name": "100 HMIS_100_  Manner of death - Accident",
-    "shortName": "nil HMIS_100_  Manner of death - Accident",
-    "dataElement": {
-      "id": "gNM2Yhypydx"
-    }
+    "shortName": "nil HMIS_100_  Manner of death - Accident"
   },
   {
     "id": "KsGOxFyzIs1",
@@ -654,10 +477,7 @@
     "displayName": "100 HMIS_100_  Manner of death - Assault",
     "valueType": "TEXT",
     "name": "100 HMIS_100_  Manner of death - Assault",
-    "shortName": "nil HMIS_100_  Manner of death - Assault",
-    "dataElement": {
-      "id": "KsGOxFyzIs1"
-    }
+    "shortName": "nil HMIS_100_  Manner of death - Assault"
   },
   {
     "id": "b4yPk98om7e",
@@ -665,10 +485,7 @@
     "displayName": "100 HMIS_100_  Manner of death - Could not be determined",
     "valueType": "TEXT",
     "name": "100 HMIS_100_  Manner of death - Could not be determined",
-    "shortName": "nil HMIS_100_  Manner of death - Could not be determin",
-    "dataElement": {
-      "id": "b4yPk98om7e"
-    }
+    "shortName": "nil HMIS_100_  Manner of death - Could not be determin"
   },
   {
     "id": "AZSlwlRAFig",
@@ -676,10 +493,7 @@
     "displayName": "100 HMIS_100_  Manner of death - external cause or poisoning",
     "valueType": "TEXT",
     "name": "100 HMIS_100_  Manner of death - external cause or poisoning",
-    "shortName": "nil HMIS_100_  Manner of death - external cause or poi",
-    "dataElement": {
-      "id": "AZSlwlRAFig"
-    }
+    "shortName": "nil HMIS_100_  Manner of death - external cause or poi"
   },
   {
     "id": "wX3i3gkTG4m",
@@ -687,10 +501,7 @@
     "displayName": "100 HMIS_100_  Manner of death - Intentional self-harm",
     "valueType": "TEXT",
     "name": "100 HMIS_100_  Manner of death - Intentional self-harm",
-    "shortName": "nil HMIS_100_  Manner of death - Intentional self-harm",
-    "dataElement": {
-      "id": "wX3i3gkTG4m"
-    }
+    "shortName": "nil HMIS_100_  Manner of death - Intentional self-harm"
   },
   {
     "id": "tYH7drlbNya",
@@ -698,10 +509,7 @@
     "displayName": "100 HMIS_100_  Manner of death - Legal intervention",
     "valueType": "TEXT",
     "name": "100 HMIS_100_  Manner of death - Legal intervention",
-    "shortName": "nil HMIS_100_  Manner of death - Legal intervention",
-    "dataElement": {
-      "id": "tYH7drlbNya"
-    }
+    "shortName": "nil HMIS_100_  Manner of death - Legal intervention"
   },
   {
     "id": "fQWuywOaoN2",
@@ -709,10 +517,7 @@
     "displayName": "100 HMIS_100_  Manner of death - Pending investigation",
     "valueType": "TEXT",
     "name": "100 HMIS_100_  Manner of death - Pending investigation",
-    "shortName": "nil HMIS_100_  Manner of death - Pending investigation",
-    "dataElement": {
-      "id": "fQWuywOaoN2"
-    }
+    "shortName": "nil HMIS_100_  Manner of death - Pending investigation"
   },
   {
     "id": "o1hG9vr0peF",
@@ -720,10 +525,7 @@
     "displayName": "100 HMIS_100_  Manner of death - Unknown",
     "valueType": "TEXT",
     "name": "100 HMIS_100_  Manner of death - Unknown",
-    "shortName": "nil HMIS_100_  Manner of death - Unknown",
-    "dataElement": {
-      "id": "o1hG9vr0peF"
-    }
+    "shortName": "nil HMIS_100_  Manner of death - Unknown"
   },
   {
     "id": "xDMX2CJ4Xw3",
@@ -731,10 +533,7 @@
     "displayName": "100 HMIS_100_  Manner of death - War",
     "valueType": "TEXT",
     "name": "100 HMIS_100_  Manner of death - War",
-    "shortName": "nil HMIS_100_  Manner of death - War",
-    "dataElement": {
-      "id": "xDMX2CJ4Xw3"
-    }
+    "shortName": "nil HMIS_100_  Manner of death - War"
   },
   {
     "id": "ZKBE8Xm9DJG",
@@ -742,10 +541,7 @@
     "displayName": "100 HMIS_100_  Ministry of Health National Case Number",
     "valueType": "TEXT",
     "name": "100 HMIS_100_  Ministry of Health National Case Number",
-    "shortName": "nil HMIS_100_  Ministry of Health National Case Number",
-    "dataElement": {
-      "id": "ZKBE8Xm9DJG"
-    }
+    "shortName": "nil HMIS_100_  Ministry of Health National Case Number"
   },
   {
     "id": "K5BDPJQk1BP",
@@ -753,10 +549,7 @@
     "displayName": "100 HMIS_100_  Mode of delivery",
     "valueType": "TEXT",
     "name": "100 HMIS_100_  Mode of delivery",
-    "shortName": "nil HMIS_100_  Mode of delivery",
-    "dataElement": {
-      "id": "K5BDPJQk1BP"
-    }
+    "shortName": "nil HMIS_100_  Mode of delivery"
   },
   {
     "id": "V4rE1tsj5Rb",
@@ -764,10 +557,7 @@
     "displayName": "100 HMIS_100_  Multiple pregnancy",
     "valueType": "TEXT",
     "name": "100 HMIS_100_  Multiple pregnancy",
-    "shortName": "nil HMIS_100_  Multiple pregnancy",
-    "dataElement": {
-      "id": "V4rE1tsj5Rb"
-    }
+    "shortName": "nil HMIS_100_  Multiple pregnancy"
   },
   {
     "id": "MOstDqSY0gO",
@@ -775,10 +565,7 @@
     "displayName": "100 HMIS_100_  NIN",
     "valueType": "TEXT",
     "name": "100 HMIS_100_  NIN",
-    "shortName": "nil HMIS_100_  NIN",
-    "dataElement": {
-      "id": "MOstDqSY0gO"
-    }
+    "shortName": "nil HMIS_100_  NIN"
   },
   {
     "id": "lQ1Byr04JTx",
@@ -786,10 +573,7 @@
     "displayName": "100 HMIS_100_  Number of completed weeks of pregnancy",
     "valueType": "TEXT",
     "name": "100 HMIS_100_  Number of completed weeks of pregnancy",
-    "shortName": "nil HMIS_100_  Number of completed weeks of pregnancy",
-    "dataElement": {
-      "id": "lQ1Byr04JTx"
-    }
+    "shortName": "nil HMIS_100_  Number of completed weeks of pregnancy"
   },
   {
     "id": "dsiwvNQLe5n",
@@ -797,10 +581,7 @@
     "displayName": "100 HMIS_100_  Occupation",
     "valueType": "TEXT",
     "name": "100 HMIS_100_  Occupation",
-    "shortName": "nil HMIS_100_  Occupation",
-    "dataElement": {
-      "id": "dsiwvNQLe5n"
-    }
+    "shortName": "nil HMIS_100_  Occupation"
   },
   {
     "id": "lu9BiHPxNqH",
@@ -808,10 +589,7 @@
     "displayName": "100 HMIS_100_  other (specify)",
     "valueType": "TEXT",
     "name": "100 HMIS_100_  other (specify)",
-    "shortName": "nil HMIS_100_  other (specify)",
-    "dataElement": {
-      "id": "lu9BiHPxNqH"
-    }
+    "shortName": "nil HMIS_100_  other (specify)"
   },
   {
     "id": "xeE5TQLvucB",
@@ -819,10 +597,7 @@
     "displayName": "100 HMIS_100_  Other significant conditions contributing to death (time intervals can be included in brackets after the condition)",
     "valueType": "TEXT",
     "name": "100 HMIS_100_  Other significant conditions contributing to death (time intervals can be included in brackets after the condition)",
-    "shortName": "nil luded in brackets after the condition)",
-    "dataElement": {
-      "id": "xeE5TQLvucB"
-    }
+    "shortName": "nil luded in brackets after the condition)"
   },
   {
     "id": "mI0UjQioE7E",
@@ -830,10 +605,7 @@
     "displayName": "100 HMIS_100_  Other significant conditions contributing to death (time intervals can be included in brackets after the condition) 2",
     "valueType": "TEXT",
     "name": "100 HMIS_100_  Other significant conditions contributing to death (time intervals can be included in brackets after the condition) 2",
-    "shortName": "nil ded in brackets after the condition) 2",
-    "dataElement": {
-      "id": "mI0UjQioE7E"
-    }
+    "shortName": "nil ded in brackets after the condition) 2"
   },
   {
     "id": "u5ebhwtAmpU",
@@ -841,10 +613,7 @@
     "displayName": "100 HMIS_100_  Other significant conditions contributing to death (time intervals can be included in brackets after the condition) 3",
     "valueType": "TEXT",
     "name": "100 HMIS_100_  Other significant conditions contributing to death (time intervals can be included in brackets after the condition) 3",
-    "shortName": "nil ded in brackets after the condition) 3",
-    "dataElement": {
-      "id": "u5ebhwtAmpU"
-    }
+    "shortName": "nil ded in brackets after the condition) 3"
   },
   {
     "id": "OxJgcwH15L7",
@@ -852,10 +621,7 @@
     "displayName": "100 HMIS_100_  Other significant conditions contributing to death (time intervals can be included in brackets after the condition) 4",
     "valueType": "TEXT",
     "name": "100 HMIS_100_  Other significant conditions contributing to death (time intervals can be included in brackets after the condition) 4",
-    "shortName": "nil ded in brackets after the condition) 4",
-    "dataElement": {
-      "id": "OxJgcwH15L7"
-    }
+    "shortName": "nil ded in brackets after the condition) 4"
   },
   {
     "id": "Zrn8LD3LoKY",
@@ -863,10 +629,7 @@
     "displayName": "100 HMIS_100_  Other significant conditions contributing to death (time intervals can be included in brackets after the condition) 5",
     "valueType": "TEXT",
     "name": "100 HMIS_100_  Other significant conditions contributing to death (time intervals can be included in brackets after the condition) 5",
-    "shortName": "nil ded in brackets after the condition) 5",
-    "dataElement": {
-      "id": "Zrn8LD3LoKY"
-    }
+    "shortName": "nil ded in brackets after the condition) 5"
   },
   {
     "id": "ctbKSNV2cg7",
@@ -874,10 +637,7 @@
     "displayName": "100 HMIS_100_  other_significant_conditions_contributing_to_death_code",
     "valueType": "TEXT",
     "name": "100 HMIS_100_  other_significant_conditions_contributing_to_death_code",
-    "shortName": "nil _conditions_contributing_to_death_code",
-    "dataElement": {
-      "id": "ctbKSNV2cg7"
-    }
+    "shortName": "nil _conditions_contributing_to_death_code"
   },
   {
     "id": "krhrEBwJeNC",
@@ -885,10 +645,7 @@
     "displayName": "100 HMIS_100_  other_significant_conditions_contributing_to_death_code 2",
     "valueType": "TEXT",
     "name": "100 HMIS_100_  other_significant_conditions_contributing_to_death_code 2",
-    "shortName": "nil onditions_contributing_to_death_code 2",
-    "dataElement": {
-      "id": "krhrEBwJeNC"
-    }
+    "shortName": "nil onditions_contributing_to_death_code 2"
   },
   {
     "id": "ZKtS7L49Poo",
@@ -896,10 +653,7 @@
     "displayName": "100 HMIS_100_  other_significant_conditions_contributing_to_death_code 3",
     "valueType": "TEXT",
     "name": "100 HMIS_100_  other_significant_conditions_contributing_to_death_code 3",
-    "shortName": "nil onditions_contributing_to_death_code 3",
-    "dataElement": {
-      "id": "ZKtS7L49Poo"
-    }
+    "shortName": "nil onditions_contributing_to_death_code 3"
   },
   {
     "id": "fJDDc9mlubU",
@@ -907,10 +661,7 @@
     "displayName": "100 HMIS_100_  other_significant_conditions_contributing_to_death_code 4",
     "valueType": "TEXT",
     "name": "100 HMIS_100_  other_significant_conditions_contributing_to_death_code 4",
-    "shortName": "nil onditions_contributing_to_death_code 4",
-    "dataElement": {
-      "id": "fJDDc9mlubU"
-    }
+    "shortName": "nil onditions_contributing_to_death_code 4"
   },
   {
     "id": "z89Wr84V2G6",
@@ -918,10 +669,7 @@
     "displayName": "100 HMIS_100_  other_significant_conditions_contributing_to_death_code 5",
     "valueType": "TEXT",
     "name": "100 HMIS_100_  other_significant_conditions_contributing_to_death_code 5",
-    "shortName": "nil onditions_contributing_to_death_code 5",
-    "dataElement": {
-      "id": "z89Wr84V2G6"
-    }
+    "shortName": "nil onditions_contributing_to_death_code 5"
   },
   {
     "id": "ymyLrfEcYkD",
@@ -929,10 +677,7 @@
     "displayName": "100 HMIS_100_  Parity",
     "valueType": "TEXT",
     "name": "100 HMIS_100_  Parity",
-    "shortName": "nil HMIS_100_  Parity",
-    "dataElement": {
-      "id": "ymyLrfEcYkD"
-    }
+    "shortName": "nil HMIS_100_  Parity"
   },
   {
     "id": "xNCSFrgdUgi",
@@ -940,10 +685,7 @@
     "displayName": "100 HMIS_100_  Place of Death",
     "valueType": "TEXT",
     "name": "100 HMIS_100_  Place of Death",
-    "shortName": "nil HMIS_100_  Place of Death",
-    "dataElement": {
-      "id": "xNCSFrgdUgi"
-    }
+    "shortName": "nil HMIS_100_  Place of Death"
   },
   {
     "id": "Z41di0TRjIu",
@@ -951,10 +693,7 @@
     "displayName": "100 HMIS_100_  Place of delivery",
     "valueType": "TEXT",
     "name": "100 HMIS_100_  Place of delivery",
-    "shortName": "nil HMIS_100_  Place of delivery",
-    "dataElement": {
-      "id": "Z41di0TRjIu"
-    }
+    "shortName": "nil HMIS_100_  Place of delivery"
   },
   {
     "id": "kGIDD5xIeLC",
@@ -962,10 +701,7 @@
     "displayName": "100 HMIS_100_  Place of occurrence of the external cause",
     "valueType": "TEXT",
     "name": "100 HMIS_100_  Place of occurrence of the external cause",
-    "shortName": "nil HMIS_100_  Place of occurrence of the external cau",
-    "dataElement": {
-      "id": "kGIDD5xIeLC"
-    }
+    "shortName": "nil HMIS_100_  Place of occurrence of the external cau"
   },
   {
     "id": "DKlOhZJOCrX",
@@ -973,10 +709,7 @@
     "displayName": "100 HMIS_100_  Please describe how external cause occurred (If poisoning please specify poisoning agent)",
     "valueType": "TEXT",
     "name": "100 HMIS_100_  Please describe how external cause occurred (If poisoning please specify poisoning agent)",
-    "shortName": "nil HMIS_100_  Please describe how external cause occu",
-    "dataElement": {
-      "id": "DKlOhZJOCrX"
-    }
+    "shortName": "nil HMIS_100_  Please describe how external cause occu"
   },
   {
     "id": "RJhbkjYrODG",
@@ -984,10 +717,7 @@
     "displayName": "100 HMIS_100_  Referred from (level of care)",
     "valueType": "TEXT",
     "name": "100 HMIS_100_  Referred from (level of care)",
-    "shortName": "nil HMIS_100_  Referred from (level of care)",
-    "dataElement": {
-      "id": "RJhbkjYrODG"
-    }
+    "shortName": "nil HMIS_100_  Referred from (level of care)"
   },
   {
     "id": "zb7uTuBCPrN",
@@ -995,10 +725,7 @@
     "displayName": "100 HMIS_100_  Report chain of events -due to� in order-Cause of death_b",
     "valueType": "TEXT",
     "name": "100 HMIS_100_  Report chain of events -due to� in order-Cause of death_b",
-    "shortName": "nil HMIS_100_  Report chain of events -due to� in or",
-    "dataElement": {
-      "id": "zb7uTuBCPrN"
-    }
+    "shortName": "nil HMIS_100_  Report chain of events -due to� in or"
   },
   {
     "id": "sfpqAeqKeyQ",
@@ -1006,10 +733,7 @@
     "displayName": "100 HMIS_100_  Report disease or condition directly leading to death-Cause of death_a",
     "valueType": "TEXT",
     "name": "100 HMIS_100_  Report disease or condition directly leading to death-Cause of death_a",
-    "shortName": "nil HMIS_100_  Report disease or condition directly le",
-    "dataElement": {
-      "id": "sfpqAeqKeyQ"
-    }
+    "shortName": "nil HMIS_100_  Report disease or condition directly le"
   },
   {
     "id": "e96GB4CXyd3",
@@ -1017,10 +741,7 @@
     "displayName": "100 HMIS_100_  Sex",
     "valueType": "TEXT",
     "name": "100 HMIS_100_  Sex",
-    "shortName": "nil HMIS_100_  Sex",
-    "dataElement": {
-      "id": "e96GB4CXyd3"
-    }
+    "shortName": "nil HMIS_100_  Sex"
   },
   {
     "id": "QTKk2Xt8KDu",
@@ -1028,10 +749,7 @@
     "displayName": "100 HMIS_100_  State the underlying cause_FINAL_on the lowest used line",
     "valueType": "TEXT",
     "name": "100 HMIS_100_  State the underlying cause_FINAL_on the lowest used line",
-    "shortName": "nil HMIS_100_  State the underlying cause_FINAL_on the",
-    "dataElement": {
-      "id": "QTKk2Xt8KDu"
-    }
+    "shortName": "nil HMIS_100_  State the underlying cause_FINAL_on the"
   },
   {
     "id": "L97MrANAav9",
@@ -1039,10 +757,7 @@
     "displayName": "100 HMIS_100_  state_the_underlying_cause_uri",
     "valueType": "TEXT",
     "name": "100 HMIS_100_  state_the_underlying_cause_uri",
-    "shortName": "nil HMIS_100_  state_the_underlying_cause_uri",
-    "dataElement": {
-      "id": "L97MrANAav9"
-    }
+    "shortName": "nil HMIS_100_  state_the_underlying_cause_uri"
   },
   {
     "id": "L97MrAMAav9",
@@ -1050,10 +765,7 @@
     "displayName": "100 HMIS_100_  state_the_underlying_cause_uri_final",
     "valueType": "TEXT",
     "name": "100 HMIS_100_  state_the_underlying_cause_uri_final",
-    "shortName": "nil HMIS_100_  state_the_underlying_cause_uri_final",
-    "dataElement": {
-      "id": "L97MrAMAav9"
-    }
+    "shortName": "nil HMIS_100_  state_the_underlying_cause_uri_final"
   },
   {
     "id": "ivnHp4M4hFF",
@@ -1061,10 +773,7 @@
     "displayName": "100 HMIS_100_  Stillborn?",
     "valueType": "TEXT",
     "name": "100 HMIS_100_  Stillborn?",
-    "shortName": "nil HMIS_100_  Stillborn?",
-    "dataElement": {
-      "id": "ivnHp4M4hFF"
-    }
+    "shortName": "nil HMIS_100_  Stillborn?"
   },
   {
     "id": "WkXxkKEJLsg",
@@ -1072,10 +781,7 @@
     "displayName": "100 HMIS_100_  Time interval_a",
     "valueType": "TEXT",
     "name": "100 HMIS_100_  Time interval_a",
-    "shortName": "nil HMIS_100_  Time interval_a",
-    "dataElement": {
-      "id": "WkXxkKEJLsg"
-    }
+    "shortName": "nil HMIS_100_  Time interval_a"
   },
   {
     "id": "eCVDO6lt4go",
@@ -1083,10 +789,7 @@
     "displayName": "100 HMIS_100_  Time interval_d",
     "valueType": "TEXT",
     "name": "100 HMIS_100_  Time interval_d",
-    "shortName": "nil HMIS_100_  Time interval_d",
-    "dataElement": {
-      "id": "eCVDO6lt4go"
-    }
+    "shortName": "nil HMIS_100_  Time interval_d"
   },
   {
     "id": "T4uxg60Lalw",
@@ -1094,10 +797,7 @@
     "displayName": "100 HMIS_100_  URI_Field",
     "valueType": "TEXT",
     "name": "100 HMIS_100_  URI_Field",
-    "shortName": "nil HMIS_100_  URI_Field",
-    "dataElement": {
-      "id": "T4uxg60Lalw"
-    }
+    "shortName": "nil HMIS_100_  URI_Field"
   },
   {
     "id": "b70okb06FWa",
@@ -1105,10 +805,7 @@
     "displayName": "100 HMIS_100_  Usual Residence-County",
     "valueType": "TEXT",
     "name": "100 HMIS_100_  Usual Residence-County",
-    "shortName": "nil HMIS_100_  Usual Residence-County",
-    "dataElement": {
-      "id": "b70okb06FWa"
-    }
+    "shortName": "nil HMIS_100_  Usual Residence-County"
   },
   {
     "id": "bNpMzyShDCX",
@@ -1116,10 +813,7 @@
     "displayName": "100 HMIS_100_  Usual Residence-Parish",
     "valueType": "TEXT",
     "name": "100 HMIS_100_  Usual Residence-Parish",
-    "shortName": "nil HMIS_100_  Usual Residence-Parish",
-    "dataElement": {
-      "id": "bNpMzyShDCX"
-    }
+    "shortName": "nil HMIS_100_  Usual Residence-Parish"
   },
   {
     "id": "u44XP9fZweA",
@@ -1127,10 +821,7 @@
     "displayName": "100 HMIS_100_  Usual Residence-Sub-County",
     "valueType": "TEXT",
     "name": "100 HMIS_100_  Usual Residence-Sub-County",
-    "shortName": "nil HMIS_100_  Usual Residence-Sub-County",
-    "dataElement": {
-      "id": "u44XP9fZweA"
-    }
+    "shortName": "nil HMIS_100_  Usual Residence-Sub-County"
   },
   {
     "id": "zwKo51BEayZ",
@@ -1138,10 +829,7 @@
     "displayName": "100 HMIS_100_  Usual Residence-Village",
     "valueType": "TEXT",
     "name": "100 HMIS_100_  Usual Residence-Village",
-    "shortName": "nil HMIS_100_  Usual Residence-Village",
-    "dataElement": {
-      "id": "zwKo51BEayZ"
-    }
+    "shortName": "nil HMIS_100_  Usual Residence-Village"
   },
   {
     "id": "jY3K6Bv4o9Q",
@@ -1149,10 +837,7 @@
     "displayName": "100 HMIS_100_  Was an autopsy requested?",
     "valueType": "TEXT",
     "name": "100 HMIS_100_  Was an autopsy requested?",
-    "shortName": "nil HMIS_100_  Was an autopsy requested?",
-    "dataElement": {
-      "id": "jY3K6Bv4o9Q"
-    }
+    "shortName": "nil HMIS_100_  Was an autopsy requested?"
   },
   {
     "id": "Kk0hmrJPR90",
@@ -1160,10 +845,7 @@
     "displayName": "100 HMIS_100_  Was surgery performed within the last 4 weeks?",
     "valueType": "TEXT",
     "name": "100 HMIS_100_  Was surgery performed within the last 4 weeks?",
-    "shortName": "nil HMIS_100_  Was surgery performed within the last 4",
-    "dataElement": {
-      "id": "Kk0hmrJPR90"
-    }
+    "shortName": "nil HMIS_100_  Was surgery performed within the last 4"
   },
   {
     "id": "W0r4m6NiLsy",
@@ -1171,10 +853,7 @@
     "displayName": "100 HMIS_100_ Event Date",
     "valueType": "TEXT",
     "name": "100 HMIS_100_ Event Date",
-    "shortName": "nil HMIS_100_ Event Date",
-    "dataElement": {
-      "id": "W0r4m6NiLsy"
-    }
+    "shortName": "nil HMIS_100_ Event Date"
   },
   {
     "id": "ZkNDFfFSTYg",
@@ -1182,10 +861,7 @@
     "displayName": "100 HMIS_100_Linked",
     "valueType": "TEXT",
     "name": "100 HMIS_100_Linked",
-    "shortName": "nil HMIS_100_Linked",
-    "dataElement": {
-      "id": "ZkNDFfFSTYg"
-    }
+    "shortName": "nil HMIS_100_Linked"
   },
   {
     "id": "QGFYJK00ES7",
@@ -1193,10 +869,7 @@
     "displayName": "100 HMIS_100_Report chain of events -due to� in order-Cause of death_c",
     "valueType": "TEXT",
     "name": "100 HMIS_100_Report chain of events -due to� in order-Cause of death_c",
-    "shortName": "nil HMIS_100_Report chain of events -due to",
-    "dataElement": {
-      "id": "QGFYJK00ES7"
-    }
+    "shortName": "nil HMIS_100_Report chain of events -due to"
   },
   {
     "id": "fleGy9CvHYh",
@@ -1204,10 +877,7 @@
     "displayName": "100 HMIS_100_Time interval_b",
     "valueType": "TEXT",
     "name": "100 HMIS_100_Time interval_b",
-    "shortName": "nil HMIS_100_Time interval_b",
-    "dataElement": {
-      "id": "fleGy9CvHYh"
-    }
+    "shortName": "nil HMIS_100_Time interval_b"
   },
   {
     "id": "aC64sB86ThG",
@@ -1215,10 +885,7 @@
     "displayName": "100 HMIS_100_Type_of_interval_for_c",
     "valueType": "TEXT",
     "name": "100 HMIS_100_Type_of_interval_for_c",
-    "shortName": "nil HMIS_100_Type_of_interval_for_c",
-    "dataElement": {
-      "id": "aC64sB86ThG"
-    }
+    "shortName": "nil HMIS_100_Type_of_interval_for_c"
   },
   {
     "id": "sJhOdGLD5lj",
@@ -1226,9 +893,6 @@
     "displayName": "100 HMIS_100_unmapped",
     "valueType": "TEXT",
     "name": "100 HMIS_100_unmapped",
-    "shortName": "nil HMIS_100_unmapped",
-    "dataElement": {
-      "id": "sJhOdGLD5lj"
-    }
+    "shortName": "nil HMIS_100_unmapped"
   }
 ]
