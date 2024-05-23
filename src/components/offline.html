@@ -1,0 +1,477 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Vital Events - Medical Certificate of Cause of Death</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f5f5f5;
+            margin: 0;
+            padding: 0;
+        }
+        .container {
+            width: 90%;
+            margin: auto;
+            background-color: #fff;
+            padding: 20px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+        .header {
+            background-color: #007bff;
+            color: #fff;
+            padding: 10px;
+            text-align: center;
+        }
+        .sub-header {
+            background-color: #eaeaea;
+            padding: 10px;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+        }
+        .sub-header div {
+            margin: 0 10px;
+        }
+        .form-section {
+            border: 1px solid #ccc;
+            padding: 20px;
+            margin: 10px 0;
+        }
+        .form-section h3 {
+            margin-top: 0;
+        }
+        .form-group {
+            margin-bottom: 10px;
+            display: flex;
+            flex-wrap: wrap;
+        }
+        .form-group label {
+            display: block;
+            width: 100%;
+            margin-bottom: 5px;
+            font-weight: bold;
+        }
+        .form-group input, .form-group select, .form-group textarea {
+            width: calc(50% - 10px);
+            padding: 8px;
+            margin-right: 10px;
+            box-sizing: border-box;
+        }
+        .form-group input[type="checkbox"] {
+            width: auto;
+            margin-right: 5px;
+        }
+        .form-group .full-width {
+            width: 100%;
+        }
+        .form-group .half-width {
+            width: calc(50% - 10px);
+        }
+        .form-group .third-width {
+            width: calc(33.33% - 10px);
+        }
+        .form-group .quarter-width {
+            width: calc(25% - 10px);
+        }
+        .form-group .inline {
+            display: flex;
+            align-items: center;
+        }
+        .form-group input[type="submit"] {
+            width: auto;
+            padding: 10px 20px;
+            background-color: #007bff;
+            color: #fff;
+            border: none;
+            cursor: pointer;
+        }
+        .grid-container {
+            display: grid;
+            grid-template-columns: repeat(6, 1fr);
+            gap: 10px;
+        }
+        .grid-item {
+            padding: 5px;
+        }
+        .grid-item-full {
+            grid-column: span 6;
+        }
+        .grid-item-label {
+            grid-column: span 2;
+            align-self: center;
+        }
+        .section-title {
+            font-weight: bold;
+            margin-bottom: 5px;
+            width: 100%;
+        }
+        .section-subtitle {
+            font-weight: bold;
+            margin-bottom: 5px;
+            grid-column: span 6;
+        }
+    </style>
+</head>
+<body>
+
+<div class="container">
+    <div class="header">
+        <h1>Vital Events - Medical Certificate of Cause of Death</h1>
+    </div>
+    <div class="sub-header">
+        <div>MCCOD-local</div>
+        <div>
+            <span>ICD-API : Running</span>
+            <span style="color: red;">Offline</span>
+        </div>
+        <div>
+            <span>Total Records: 1</span>
+            <span>Records Sent: 1</span>
+            <span>Records NOT Sent: 0</span>
+        </div>
+        <div>
+            Facility: <strong>Nicole Medical Clinic</strong>
+        </div>
+        <div><a href="#">Download & Install ICD-API</a></div>
+    </div>
+
+    <form>
+        <!-- Identification Information -->
+        <div class="form-section">
+            <div class="form-group">
+                <label for="facility">Facility:</label>
+                <select id="facility" name="facility" class="full-width">
+                    <option value="Nicole Medical Clinic">Nicole Medical Clinic</option>
+                </select>
+            </div>
+            <div class="form-group half-width">
+                <label for="nationalCaseNumber">National Case Number</label>
+                <input type="text" id="nationalCaseNumber" name="nationalCaseNumber" value="338">
+            </div>
+            <div class="form-group half-width">
+                <label for="inPatientNumber">InPatient Number</label>
+                <input type="text" id="inPatientNumber" name="inPatientNumber" value="432">
+            </div>
+            <div class="form-group half-width">
+                <label for="nin">NIN</label>
+                <input type="text" id="nin" name="nin" value="Veniam eum vero con">
+            </div>
+            <div class="form-group half-width">
+                <label for="fullName">Name (Full Name)</label>
+                <input type="text" id="fullName" name="fullName" value="Athena Justice">
+            </div>
+            <div class="form-group section-title">Place of residence of deceased</div>
+            <div class="form-group half-width">
+                <label for="region">Region</label>
+                <input type="text" id="region" name="region" value="Officia qui voluptat">
+            </div>
+            <div class="form-group half-width">
+                <label for="occupation">Occupation</label>
+                <input type="text" id="occupation" name="occupation" value="Amet saepe id labor">
+            </div>
+            <div class="form-group half-width">
+                <label for="district">District</label>
+                <input type="text" id="district" name="district" value="Culpa consectetur r">
+            </div>
+            <div class="form-group half-width inline">
+                <label for="dobKnown">Date of Birth Known?</label>
+                <input type="checkbox" id="dobKnownYes" name="dobKnown" value="yes" checked> Yes
+                <input type="checkbox" id="dobKnownNo" name="dobKnown" value="no"> No
+            </div>
+            <div class="form-group half-width">
+                <label for="county">County</label>
+                <input type="text" id="county" name="county" value="Voluptatem rerum cul">
+            </div>
+            <div class="form-group half-width">
+                <label for="dateOfBirth">Date of Birth</label>
+                <input type="date" id="dateOfBirth" name="dateOfBirth" value="2000-12-27">
+            </div>
+            <div class="form-group half-width">
+                <label for="subCounty">Sub-County</label>
+                <input type="text" id="subCounty" name="subCounty" value="Ea eos eu non bland">
+            </div>
+            <div class="form-group half-width">
+                <label for="age">Age</label>
+                <div class="form-group quarter-width">
+                    <label for="ageYears">Years</label>
+                    <input type="number" id="ageYears" name="ageYears" value="2017">
+                </div>
+                <div class="form-group quarter-width">
+                    <label for="ageMonths">Months</label>
+                    <input type="number" id="ageMonths" name="ageMonths" value="2">
+                </div>
+                <div class="form-group quarter-width">
+                    <label for="ageDays">Days</label>
+                    <input type="number" id="ageDays" name="ageDays" value="18">
+                </div>
+                <div class="form-group quarter-width">
+                    <label for="ageHours">Hours</label>
+                    <input type="number" id="ageHours" name="ageHours">
+                </div>
+                <div class="form-group quarter-width">
+                    <label for="ageMinutes">Minutes</label>
+                    <input type="number" id="ageMinutes" name="ageMinutes">
+                </div>
+            </div>
+            <div class="form-group half-width">
+                <label for="village">Village</label>
+                <input type="text" id="village" name="village" value="Perferendis consecte">
+            </div>
+            <div class="form-group half-width">
+                <label for="sex">Sex</label>
+                <select id="sex" name="sex">
+                    <option value="male">Male</option>
+                    <option value="female">Female</option>
+                </select>
+            </div>
+            <div class="form-group half-width">
+                <label for="placeOfDeath">Place of Death</label>
+                <input type="text" id="placeOfDeath" name="placeOfDeath" value="Voluptatem est volu">
+            </div>
+            <div class="form-group half-width">
+                <label for="dateTimeOfDeath">Date and Time of Death</label>
+                <input type="datetime-local" id="dateTimeOfDeath" name="dateTimeOfDeath" value="2017-11-16T00:00">
+            </div>
+        </div>
+
+        <!-- Frame A: Medical Data, Part 1 and 2 -->
+        <div class="form-section">
+            <h3>Frame A: Medical Data. Part 1 and 2</h3>
+            <div class="grid-container">
+                <div class="grid-item section-subtitle">Report disease or condition directly leading to death on linea</div>
+                <div class="grid-item"><label>a</label></div>
+                <div class="grid-item"><input type="text" value="coughing up blood"></div>
+                <div class="grid-item"><input type="text" value="MD22"></div>
+                <div class="grid-item"><input type="text" value="Ducimus excepturi n"></div>
+                <div class="grid-item"><select>
+                    <option>Days</option>
+                    <option>Weeks</option>
+                    <option>Years</option>
+                    <option>Months</option>
+                </select></div>
+                <div class="grid-item"><input type="text" value="Praesentium aut alia"></div>
+
+                <div class="grid-item section-subtitle">Report chain of events 'due to' (b to d) in order (if applicable)</div>
+                <div class="grid-item"><label>b</label></div>
+                <div class="grid-item"><input type="text" value="Voluptate autem dele"></div>
+                <div class="grid-item"><input type="text" value="Eiusmod sint et com"></div>
+                <div class="grid-item"><select>
+                    <option>Days</option>
+                    <option>Weeks</option>
+                    <option>Years</option>
+                    <option>Months</option>
+                </select></div>
+                <div class="grid-item"><input type="text" value="Dicta irure duis vol"></div>
+
+                <div class="grid-item"></div>
+                <div class="grid-item"><label>c</label></div>
+                <div class="grid-item"><input type="text" value="Id soluta nobis id v"></div>
+                <div class="grid-item"><input type="text" value="Aut excepteur fugit"></div>
+                <div class="grid-item"><select>
+                    <option>Days</option>
+                    <option>Weeks</option>
+                    <option>Years</option>
+                    <option>Months</option>
+                </select></div>
+                <div class="grid-item"><input type="text" value="Excepteur et consect"></div>
+
+                <div class="grid-item"></div>
+                <div class="grid-item"><label>d</label></div>
+                <div class="grid-item"><input type="text" value="Nobis dolor occaecat"></div>
+                <div class="grid-item"><input type="text" value="Eum culpa error quid"></div>
+                <div class="grid-item"><select>
+                    <option>Days</option>
+                    <option>Weeks</option>
+                    <option>Years</option>
+                    <option>Months</option>
+                </select></div>
+                <div class="grid-item"><input type="text" value="Aspernatur eos nisi"></div>
+
+                <div class="grid-item section-subtitle">Other significant conditions contributing to death (time intervals can be included in brackets after the condition)</div>
+                <div class="grid-item"><label>Other 1</label></div>
+                <div class="grid-item"><input type="text" value="Aute culpa est fuga"></div>
+                <div class="grid-item-full"><input type="text" value="Adipisci elit ut co"></div>
+
+                <div class="grid-item"></div>
+                <div class="grid-item"><label>Other 2</label></div>
+                <div class="grid-item"><input type="text" value="Voluptatem quas moll"></div>
+                <div class="grid-item-full"><input type="text" value="Dicta ex quos exerci"></div>
+
+                <div class="grid-item"></div>
+                <div class="grid-item"><label>Other 3</label></div>
+                <div class="grid-item"><input type="text" value="Assumenda dolores er"></div>
+                <div class="grid-item-full"><input type="text" value="Dicta sed rerum labo"></div>
+
+                <div class="grid-item"></div>
+                <div class="grid-item"><label>Other 4</label></div>
+                <div class="grid-item"><input type="text" value="Molestias quo facili"></div>
+                <div class="grid-item-full"><input type="text" value="Et ut voluptatem Ut"></div>
+
+                <div class="grid-item"></div>
+                <div class="grid-item"><label>Other 5</label></div>
+                <div class="grid-item"><input type="text" value="Odio deserunt praese"></div>
+                <div class="grid-item-full"><input type="text" value="Sit irure atque mole"></div>
+
+                <div class="grid-item section-subtitle">State the underlying cause</div>
+                <div class="grid-item-full"><input type="text" value="coughing up blood"></div>
+                <div class="grid-item"><input type="text" value="MD22"></div>
+
+                <div class="grid-item section-subtitle">Doris Underlying Cause</div>
+                <div class="grid-item"><input type="text" value="Aliquid recusandae"></div>
+                <div class="grid-item-full"><input type="text" value="Fuga Perferendis ip"></div>
+
+                <div class="grid-item section-subtitle">Final Underlying Cause</div>
+                <div class="grid-item"><input type="text" value="coughing up blood"></div>
+                <div class="grid-item-full"><input type="text" value="MD22"></div>
+
+                <div class="grid-item-full"><button type="button">View Report</button></div>
+            </div>
+        </div>
+
+        <!-- Frame B: Other Medical Data -->
+        <div class="form-section">
+            <h3>Frame B: Other Medical Data</h3>
+            <div class="grid-container">
+                <div class="grid-item section-subtitle">Was surgery performed within the last 4 weeks?</div>
+                <div class="grid-item-full"><input type="checkbox" id="surgeryPerformed" name="surgeryPerformed"> Yes</div>
+
+                <div class="grid-item section-subtitle">If yes please specify date of surgery</div>
+                <div class="grid-item-full"><input type="date" id="dateOfSurgery" name="dateOfSurgery" value="1984-04-07"></div>
+
+                <div class="grid-item section-subtitle">If yes please specify reason for surgery (disease or condition)</div>
+                <div class="grid-item-full"><input type="text" id="reasonForSurgery" name="reasonForSurgery" value="Veniam facilis labo"></div>
+
+                <div class="grid-item section-subtitle">Was an autopsy requested?</div>
+                <div class="grid-item-full"><input type="checkbox" id="autopsyRequested" name="autopsyRequested"> Yes</div>
+
+                <div class="grid-item section-subtitle">If yes were the findings used in certification?</div>
+                <div class="grid-item-full"><input type="checkbox" id="autopsyFindingsUsed" name="autopsyFindingsUsed"> Yes</div>
+            </div>
+        </div>
+
+        <!-- Manner of Death -->
+        <div class="form-section">
+            <h3>Manner of Death</h3>
+            <div class="grid-container">
+                <div class="grid-item section-subtitle">Disease</div>
+                <div class="grid-item-full"><input type="checkbox" id="mannerOfDeathDisease" name="mannerOfDeathDisease" checked> Yes</div>
+
+                <div class="grid-item section-subtitle">Assault</div>
+                <div class="grid-item-full"><input type="checkbox" id="mannerOfDeathAssault" name="mannerOfDeathAssault" checked> Yes</div>
+
+                <div class="grid-item section-subtitle">Could not be determined</div>
+                <div class="grid-item-full"><input type="checkbox" id="mannerOfDeathDetermined" name="mannerOfDeathDetermined"> Yes</div>
+
+                <div class="grid-item section-subtitle">Accident</div>
+                <div class="grid-item-full"><input type="checkbox" id="mannerOfDeathAccident" name="mannerOfDeathAccident" checked> Yes</div>
+
+                <div class="grid-item section-subtitle">Legal intervention</div>
+                <div class="grid-item-full"><input type="checkbox" id="mannerOfDeathLegal" name="mannerOfDeathLegal" checked> Yes</div>
+
+                <div class="grid-item section-subtitle">Pending investigation</div>
+                <div class="grid-item-full"><input type="checkbox" id="mannerOfDeathPending" name="mannerOfDeathPending" checked> Yes</div>
+
+                <div class="grid-item section-subtitle">Intentional self-harm</div>
+                <div class="grid-item-full"><input type="checkbox" id="mannerOfDeathIntentional" name="mannerOfDeathIntentional" checked> Yes</div>
+
+                <div class="grid-item section-subtitle">War</div>
+                <div class="grid-item-full"><input type="checkbox" id="mannerOfDeathWar" name="mannerOfDeathWar" checked> Yes</div>
+
+                <div class="grid-item section-subtitle">Unknown</div>
+                <div class="grid-item-full"><input type="checkbox" id="mannerOfDeathUnknown" name="mannerOfDeathUnknown"> Yes</div>
+
+                <div class="grid-item section-subtitle">If external cause or poisoning</div>
+                <div class="grid-item-full"><input type="checkbox" id="externalCause" name="externalCause"> Yes</div>
+
+                <div class="grid-item section-subtitle">Date of injury</div>
+                <div class="grid-item-full"><input type="date" id="dateOfInjury" name="dateOfInjury" value="1974-11-13"></div>
+
+                <div class="grid-item section-subtitle">Please describe how external cause occurred (if poisoning please specify poisoning agent)</div>
+                <div class="grid-item-full"><textarea id="externalCauseDescription" name="externalCauseDescription">Placeat architecto</textarea></div>
+
+                <div class="grid-item section-subtitle">Place of occurrence of the external cause</div>
+                <div class="grid-item-full"><input type="text" id="placeOfOccurrence" name="placeOfOccurrence" value="Error lorem a assume"></div>
+            </div>
+        </div>
+
+        <!-- Fatal or Infant Death -->
+        <div class="form-section">
+            <h3>Fatal or infant death</h3>
+            <div class="grid-container">
+                <div class="grid-item section-subtitle">Multiple pregnancy</div>
+                <div class="grid-item-full"><input type="checkbox" id="multiplePregnancy" name="multiplePregnancy"> Yes</div>
+
+                <div class="grid-item section-subtitle">Stillborn?</div>
+                <div class="grid-item-full"><input type="checkbox" id="stillborn" name="stillborn"> Yes</div>
+
+                <div class="grid-item section-subtitle">If death within 24 hrs specify the number of hours survived</div>
+                <div class="grid-item-full"><input type="number" id="hoursSurvived" name="hoursSurvived" value="854"></div>
+
+                <div class="grid-item section-subtitle">Birth weight (in grams)</div>
+                <div class="grid-item-full"><input type="number" id="birthWeight" name="birthWeight" value="Rerum fugiat quidem"></div>
+
+                <div class="grid-item section-subtitle">Number of completed weeks of pregnancy</div>
+                <div class="grid-item-full"><input type="number" id="weeksOfPregnancy" name="weeksOfPregnancy" value="436"></div>
+
+                <div class="grid-item section-subtitle">Age of mother (years)</div>
+                <div class="grid-item-full"><input type="number" id="ageOfMother" name="ageOfMother" value="2005"></div>
+
+                <div class="grid-item section-subtitle">If the death was perinatal, please state conditions of mother that affected the fetus and newborn</div>
+                <div class="grid-item-full"><textarea id="conditionsOfMother" name="conditionsOfMother">Repudiandae ipsam qu</textarea></div>
+            </div>
+        </div>
+
+        <!-- For Women -->
+        <div class="form-section">
+            <h3>For women:</h3>
+            <div class="grid-container">
+                <div class="grid-item section-subtitle">Was the deceased pregnant or within 6 weeks of delivery</div>
+                <div class="grid-item-full"><input type="checkbox" id="pregnantOrWithin6Weeks" name="pregnantOrWithin6Weeks"> Yes</div>
+
+                <div class="grid-item section-subtitle">At what point?</div>
+                <div class="grid-item-full"><input type="text" id="pregnancyPoint" name="pregnancyPoint"></div>
+
+                <div class="grid-item section-subtitle">Did the pregnancy contribute to death?</div>
+                <div class="grid-item-full"><input type="checkbox" id="pregnancyContribute" name="pregnancyContribute"> Yes</div>
+
+                <div class="grid-item section-subtitle">Parity</div>
+                <div class="grid-item-full"><input type="text" id="parity" name="parity" value="Id magnam dolor est"></div>
+
+                <div class="grid-item section-subtitle">Mode of delivery</div>
+                <div class="grid-item-full"><input type="text" id="modeOfDelivery" name="modeOfDelivery"></div>
+
+                <div class="grid-item section-subtitle">Place of delivery</div>
+                <div class="grid-item-full"><input type="text" id="placeOfDelivery" name="placeOfDelivery"></div>
+
+                <div class="grid-item section-subtitle">Delivered by skilled attendant</div>
+                <div class="grid-item-full"><input type="checkbox" id="skilledAttendant" name="skilledAttendant"> Yes</div>
+            </div>
+        </div>
+
+        <!-- Certifying Staff -->
+        <div class="form-section">
+            <h3>I hereby certify that (tick as appropriate):</h3>
+            <div class="grid-container">
+                <div class="grid-item section-subtitle">I attended the deceased before death</div>
+                <div class="grid-item-full"><input type="checkbox" id="attendedBeforeDeath" name="attendedBeforeDeath"> Yes</div>
+
+                <div class="grid-item section-subtitle">I examined the body after death</div>
+                <div class="grid-item-full"><input type="checkbox" id="examinedAfterDeath" name="examinedAfterDeath"> Yes</div>
+
+                <div class="grid-item section-subtitle">I conducted the post mortem of the body</div>
+                <div class="grid-item-full"><input type="checkbox" id="conductedPostMortem" name="conductedPostMortem"> Yes</div>
+
+                <div class="grid-item section-subtitle">Other (specify)</div>
+                <div class="grid-item-full"><input type="text" id="otherSpecify" name="otherSpecify" value="Unde aut ea magnam n"></div>
+
+                <div class="grid-item section-subtitle">Examined By</div>
+                <div class="grid-item-full"><input type="text" id="examinedBy" name="examinedBy" value="Eos libero laboris"></div>
+
+                <div class="grid-item-full"><input type="submit" value="Submit"></div>
+            </div>
+        </div>
+    </form>
+</div>
+
+</body>
+</html>
