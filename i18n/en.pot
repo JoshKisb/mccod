@@ -8,8 +8,29 @@ msgstr ""
 "POT-Creation-Date: 2024-05-07T08:25:47.365Z\n"
 "PO-Revision-Date: 2024-05-07T08:25:47.365Z\n"
 
-msgid "Hello {{name}}"
-msgstr "Hello {{name}}"
+msgid "nil_020_100_MD01ba_Type_of_interval_for_a"
+msgstr "Type of interval for a"
 
-msgid "Welcome to DHIS2!"
-msgstr "Welcome to DHIS2!"
+msgid "nil_020_100_MD02a3_Report_chain_of_events_due_to_d"
+msgstr "Report chain of events due to in order-Cause of death d"
+
+msgid "nil_020_100_MD02b1a_Type_of_interval_for_b"
+msgstr "Type of interval for b"
+
+msgid "nil_020_100_MD02b2b_HMIS_100_Time_interval_c"
+msgstr "HMIS 100 Time interval c"
+
+msgid "nil_020_100_MD02b3a_Type_of_interval_for_d"
+msgstr "Type of interval for d"
+
+msgid "nil_020_DD03_Inpatient_number"
+msgstr "Inpatient number"
+
+msgid "nil_100_020_Ministry_of_Health_National_Case_Number"
+msgstr "Ministry of Health National Case Number"
+
+msgid "nil_100_DD03_Nationality"
+msgstr "Nationality"
+
+msgid "nil_100_DDO11_Time_of_Death"
+msgstr "Time of Death"
