@@ -26,52 +26,22 @@ const InfoSection = () => {
 				<TextField label="InPatient Number" name="inPatientNumber" />
 			</div>
 			<div className="form-group half-width">
-				<label htmlFor="nin">NIN</label>
-				<input
-					type="text"
-					id="nin"
-					name="nin"
-					value="Veniam eum vero con"
-				/>
+				<TextField label="NIN" name="nin" value="Veniam eum vero con" />
 			</div>
 			<div className="form-group half-width">
-				<label htmlFor="fullName">Name (Full Name)</label>
-				<input
-					type="text"
-					id="fullName"
-					name="fullName"
-					value="Athena Justice"
-				/>
+				<TextField label="Name (Full Name)" name="fullName" value="Athena Justice" />
 			</div>
 			<div className="form-group section-title">
 				Place of residence of deceased
 			</div>
 			<div className="form-group half-width">
-				<label htmlFor="region">Region</label>
-				<input
-					type="text"
-					id="region"
-					name="region"
-					value="Officia qui voluptat"
-				/>
+				<TextField label="Region" name="region" value="Officia qui voluptat" />
 			</div>
 			<div className="form-group half-width">
-				<label htmlFor="occupation">Occupation</label>
-				<input
-					type="text"
-					id="occupation"
-					name="occupation"
-					value="Amet saepe id labor"
-				/>
+				<TextField label="Occupation" name="occupation" value="Amet saepe id labor" />
 			</div>
 			<div className="form-group half-width">
-				<label htmlFor="district">District</label>
-				<input
-					type="text"
-					id="district"
-					name="district"
-					value="Culpa consectetur r"
-				/>
+				<TextField label="District" name="district" value="Culpa consectetur r" />
 			</div>
 			<div className="form-group half-width inline">
 				<label htmlFor="dobKnown">Date of Birth Known?</label>
@@ -92,13 +62,7 @@ const InfoSection = () => {
 				No
 			</div>
 			<div className="form-group half-width">
-				<label htmlFor="county">County</label>
-				<input
-					type="text"
-					id="county"
-					name="county"
-					value="Voluptatem rerum cul"
-				/>
+				<TextField label="County" name="county" value="Voluptatem rerum cul" />
 			</div>
 			<div className="form-group half-width">
 				<label htmlFor="dateOfBirth">Date of Birth</label>
@@ -110,13 +74,7 @@ const InfoSection = () => {
 				/>
 			</div>
 			<div className="form-group half-width">
-				<label htmlFor="subCounty">Sub-County</label>
-				<input
-					type="text"
-					id="subCounty"
-					name="subCounty"
-					value="Ea eos eu non bland"
-				/>
+				<TextField label="Sub-County" name="subCounty" value="Ea eos eu non bland" />
 			</div>
 			<div className="form-group half-width">
 				<label htmlFor="age">Age</label>
