@@ -1,16 +1,18 @@
 import React from 'react';
+import { InputField } from "@dhis2/ui";
 
 interface TextFieldProps {
-  value: string;
-  onChange: (value: string) => void;
+  name: string;
+  value?: string;
+  label?: string;
+  onChange?: (value: string) => void;
 }
 
-const TextField: React.FC<TextFieldProps> = ({ value, onChange }) => {
-  const handleChange = (event: React.ChangeEvent<HTMLInputElement>) => {
-    onChange(event.target.value);
-  };
-
-  return <input type="text" value={value} onChange={handleChange} />;
+const TextField: React.FC<TextFieldProps> = ({ value, onChange, label, name }) => {
+  const handleChange = (v) => {
+    console.log("val", v)
+  }
+  return <InputField label={label} name={name} onChange={handleChange} />
 };
 
 export default TextField;

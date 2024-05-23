@@ -1,30 +1,37 @@
-import React from 'react';
+import React from "react";
+import { SingleSelectField, SingleSelectOption } from "@dhis2/ui";
 
 interface Option {
-  label: string;
-  value: string;
+	label: string;
+	value: string;
 }
 
 interface SelectFieldProps {
-  options: Option[];
-  value: string;
-  onChange: (value: string) => void;
+	name: string;
+	label?: string;
+	options: Option[];
+	value?: string;
+	onChange?: (value: string) => void;
 }
 
-const SelectField: React.FC<SelectFieldProps> = ({ options, value, onChange }) => {
-  const handleChange = (event: React.ChangeEvent<HTMLSelectElement>) => {
-    onChange(event.target.value);
-  };
+const SelectField: React.FC<SelectFieldProps> = ({
+	name,
+	options,
+	value,
+	label,
+	onChange,
+}) => {
+	const handleChange = (v) => {
+		console.log("val", v);
+	};
 
-  return (
-    <select value={value} onChange={handleChange}>
-      {options.map((option) => (
-        <option key={option.value} value={option.value}>
-          {option.label}
-        </option>
-      ))}
-    </select>
-  );
+	return (
+		<SingleSelectField label={label} onChange={handleChange}>
+			{options.map((option) => (
+				<SingleSelectOption label={option.label} value={option.value} />
+			))}
+		</SingleSelectField>
+	);
 };
 
 export default SelectField;
