@@ -147,13 +147,7 @@ const InfoSection = () => {
 				</div>
 			</div>
 			<div className="form-group half-width">
-				<label htmlFor="village">Village</label>
-				<input
-					type="text"
-					id="village"
-					name="village"
-					value="Perferendis consecte"
-				/>
+				<TextField label="Village" name="village" value="Perferendis consecte" />
 			</div>
 			<div className="form-group half-width">
 				<label htmlFor="sex">Sex</label>
@@ -163,13 +157,7 @@ const InfoSection = () => {
 				</select>
 			</div>
 			<div className="form-group half-width">
-				<label htmlFor="placeOfDeath">Place of Death</label>
-				<input
-					type="text"
-					id="placeOfDeath"
-					name="placeOfDeath"
-					value="Voluptatem est volu"
-				/>
+				<TextField label="Place of Death" name="placeOfDeath" value="Voluptatem est volu" />
 			</div>
 			<div className="form-group half-width">
 				<label htmlFor="dateTimeOfDeath">Date and Time of Death</label>
